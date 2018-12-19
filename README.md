@@ -1,7 +1,3 @@
-# Node Binance API
-
-Node Binance API is an asynchronous node.js library for the Binance API designed to be easy to use. 
-
 [![Latest Version](https://img.shields.io/github/release/jaggedsoft/node-binance-api.svg?style=flat-square)](https://github.com/jaggedsoft/node-binance-api/releases) 
 [![GitHub last commit](https://img.shields.io/github/last-commit/jaggedsoft/node-binance-api.svg?maxAge=2400)](#)
 [![npm downloads](https://img.shields.io/npm/dt/node-binance-api.svg?maxAge=7200)](https://www.npmjs.com/package/node-binance-api)
