@@ -1633,5 +1633,4 @@ binance.useServerTime(function() {
 Thank you to all contributors
 
 > # ⚠️ Binance no longer offers support for API projects.
-> ## No support is offered. No questions will be answered.
 
