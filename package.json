@@ -2,7 +2,7 @@
   "name": "binance-api",
   "version": "1.0.0",
   "description": "Binance API for node https://github.com/realchainlife/binance-api",
-  "main": "node-binance-api.js",
+  "main": "binance-api.js",
   "dependencies": {
     "async": "^2.6.1",
     "https-proxy-agent": "^2.2.1",
