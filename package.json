@@ -34,7 +34,7 @@
   "bugs": {
     "url": "https://github.com/realchainlife/binance-api/issues"
   },
-  "homepage": "https://github.com/jaggedsoft/node-binance-api#readme",
+  "homepage": "https://github.com/realchainlife/binance-api#readme",
   "devDependencies": {
     "chai": "^4.1.2",
     "chai-counter": "^1.0.0",
