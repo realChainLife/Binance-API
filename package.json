@@ -32,7 +32,7 @@
   "author": "Sonia John <sj.sonia@protonmail.com> (https://nextlocal.net)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jaggedsoft/node-binance-api/issues"
+    "url": "https://github.com/realchainlife/binance-api/issues"
   },
   "homepage": "https://github.com/jaggedsoft/node-binance-api#readme",
   "devDependencies": {
