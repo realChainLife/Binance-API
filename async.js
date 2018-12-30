@@ -35,7 +35,7 @@ module.exports = function() {
     async function request(url, data = {}, flags = {}) {
         const base = 'https://api.binance.com/api/';
         const wapi = 'https://api.binance.com/wapi/';
-        const userAgent = 'Mozilla/4.0 (compatible; Node Binance API)';
+        const userAgent = 'Mozilla/4.0 (compatible; Binance API)';
         const contentType = 'application/x-www-form-urlencoded';
         let headers = {
             'User-Agent': userAgent,
