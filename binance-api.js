@@ -11,7 +11,7 @@
 
 /**
  * Binance API
- * @module jaggedsoft/node-binance-api
+ * @module realchainlife/binance-api
  * @return {object} instance to class object
  */
 let api = function Binance() {
