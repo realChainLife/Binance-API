@@ -10,7 +10,7 @@
  * ============================================================ */
 
 /**
- * Node Binance API
+ * Binance API
  * @module jaggedsoft/node-binance-api
  * @return {object} instance to class object
  */
