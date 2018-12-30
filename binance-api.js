@@ -1,6 +1,6 @@
 /* ============================================================
  * binance-api
- * https://github.com/jaggedsoft/node-binance-api
+ * https://github.com/realchainlife/binance-api
  * ============================================================
  * Copyright 2017-, Jon Eyrick
  * Released under the MIT License
