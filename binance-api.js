@@ -1,5 +1,5 @@
 /* ============================================================
- * node-binance-api
+ * binance-api
  * https://github.com/jaggedsoft/node-binance-api
  * ============================================================
  * Copyright 2017-, Jon Eyrick
