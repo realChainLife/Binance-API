@@ -5,7 +5,7 @@
  * Copyright 2017-, Jon Eyrick
  * Released under the MIT License
 
- * Copyright 2017-, Jon Eyrick
+ * Copyright 2017-, Sonia John
  * Released under the MIT License
  * ============================================================ */
 
