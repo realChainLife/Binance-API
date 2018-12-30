@@ -4,6 +4,9 @@
  * ============================================================
  * Copyright 2017-, Jon Eyrick
  * Released under the MIT License
+
+* Copyright 2017-, 
+ * Released under the MIT License
  * ============================================================ */
 
 /**
